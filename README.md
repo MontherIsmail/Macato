@@ -26,18 +26,18 @@ The platform aims to:
 
 ## 👉🏻 user stories
 
-_As a `user/chef`_ I should sign up in the app.
-_As a `user/chef`_ I can login in the app.
-_As a `user`_ I should see a form that contain of a menu that contain of some details like date, address, number of guests etc.. so I can submit booking.
-_As a `user`_ I should  get a conformation email with next steps and instructions. 
+- _As a `user/chef`_ I should sign up in the app.
+- _As a `user/chef`_ I can login in the app.
+- _As a `user`_ I should see a form that contain of a menu that contain of some details like date, address, number of guests etc.. so I can submit booking.
+- _As a `user`_ I should  get a conformation email with next steps and instructions. 
    1.Cooking equipment and ingredients required. 
    2.Type of food, e.g.: Indian, American… etc. Link to guest invitation
    3.Chef arrival and departure time
-Chef preferences e.g.: Female vs male
-_As a `user`_ I can pay online or in person.
-_As a `user`_ I should get a special offers and discounts.
-_As a `user/chef`_ I can add my feedback.    
-_As a `user/chef`_ I can log out. 
+   4.Chef preferences e.g.: Female vs male
+- _As a `user`_ I can pay online or in person.
+- _As a `user`_ I should get a special offers and discounts.
+- _As a `user/chef`_ I can add my feedback.    
+- _As a `user/chef`_ I can log out. 
 
 
 
